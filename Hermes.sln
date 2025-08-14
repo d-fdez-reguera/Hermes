@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hermes.FileModule", "Hermes
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hermes.LoggerModule", "Hermes.LoggerModule\Hermes.LoggerModule.csproj", "{E62155E9-9F5C-4533-A873-3B8F9405C612}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hermes.Test", "Hermes.Test\Hermes.Test.csproj", "{305D371A-ED8D-463B-AC88-BA03FC46CB03}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{E62155E9-9F5C-4533-A873-3B8F9405C612}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E62155E9-9F5C-4533-A873-3B8F9405C612}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E62155E9-9F5C-4533-A873-3B8F9405C612}.Release|Any CPU.Build.0 = Release|Any CPU
+		{305D371A-ED8D-463B-AC88-BA03FC46CB03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{305D371A-ED8D-463B-AC88-BA03FC46CB03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{305D371A-ED8D-463B-AC88-BA03FC46CB03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{305D371A-ED8D-463B-AC88-BA03FC46CB03}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
