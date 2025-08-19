@@ -6,4 +6,10 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Hermes.FileModule\Hermes.FileModule.csproj" />
+    <ProjectReference Include="..\Hermes.LoggerModule\Hermes.LoggerModule.csproj" />
+    <ProjectReference Include="..\Hermes.MailModule\Hermes.MailModule.csproj" />
+  </ItemGroup>
+
 </Project>
